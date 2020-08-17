@@ -1,0 +1,42 @@
+* {
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url(/res/backgrimg.jpg);
+}
+.title1 h1 {
+  color: coral;
+}
+header ul {
+  list-style-type: none;
+  display: flex;
+  position: relative;
+  margin-bottom: 4%;
+  }
+header ul li {
+  display: inline;
+  width: 50%;
+  padding-left: 120px;
+  
+}
+header ul li a:hover {
+  text-decoration: none;
+  font-family: Trebuchet MS;
+  font-size: 20px;
+  border:ridge burlywood;
+  background-color: red;
+
+}
+.video {
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+}
+
+#submitbtn{
+    color: black;
+}
+.toppage button{
+background-color:brown ;
+}
